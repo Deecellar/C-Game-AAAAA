@@ -82,4 +82,4 @@ if(USE_TEST)
 
 
 endif()
-
+file(COPY Content DESTINATION ${CMAKE_BINARY_DIR})
