@@ -1,0 +1,11 @@
+SanderMertens/flecs
+glfw/glfw
+./libs/locals/bgfx.cmake/
+https://github.com/slembcke/Chipmunk2D/archive/Chipmunk-7.0.3.tar.gz -DBUILD_DEMOS=OFF
+./libs/locals/cmocka
+microsoft/mimalloc -DMI_BUILD_OBJECT=OFF
+./libs/single_header/cr -X header
+./libs/single_header/cute -X header
+./libs/single_header/hypathia -X header
+./libs/single_header/nuklear -X header
+./libs/locals/liblog
