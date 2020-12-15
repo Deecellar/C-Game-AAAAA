@@ -4,6 +4,7 @@ This game is a proof of concept for us to use C in a game becuase we are masochi
 - BGFX for Graphic Abstractions
 - GLFW for Windowing 
 - Chipmunk2D for Physics
+- flecs for ECS
 - cr for Plugin separation
 - cuteheaders for a bunch of things (you can see in libs/single_header)
 - hypathia for maths
